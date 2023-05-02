@@ -1,5 +1,4 @@
-- Hi. My name is Ash, an aspiring frontend developer studying Comp Sci at ______
-- I am currently perfecting my skills in java and C++
+- Hi. My name is Ash, an aspiring frontend developer studying Comp Sci at Newcastle University
 - Reach me at ashallen2000@gmail.com
 
 <!---
