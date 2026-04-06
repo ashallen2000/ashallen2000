@@ -1,4 +1,4 @@
-- Hi. My name is Ash, an aspiring frontend developer studying Comp Sci at Newcastle University
+- Hi. My name is Ash, an aspiring full stack developer.
 - Reach me at ashallen2000@gmail.com
 
 <!---
